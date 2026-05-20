@@ -1,6 +1,0 @@
-1. Cover and resume preview inside the web server. You can enable and disable looking at it
-2. more job sites
-3. Make sure the search is accurately finding jobs
-4. Make an app on a desktop
-5. Make an option on the web server to drop in a link from another site; it will use OpenAI on the web server to craft a tailored resume and cover letter for that site.
-6. Make a browser extension that will help you apply for jobs, and it will auto-fill in your info

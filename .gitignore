@@ -3,6 +3,8 @@ __pycache__/
 .env
 OPENAI_API_KEY
 config.py
+.vscode/
+.idea/
 
 saved_jobs.csv
 jobs.csv
@@ -12,6 +14,9 @@ matched_jobs_v3.xlsx
 selected_job.csv
 manual_jobs.csv
 applications.csv
+filtered_jobs_debug.csv
+parsed_resume.json
+notes.txt
 
 tailored_resume.json
 tailored_resume.docx
