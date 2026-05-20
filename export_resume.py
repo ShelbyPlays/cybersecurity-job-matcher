@@ -11,7 +11,7 @@ OUTPUT_FOLDER = "resumes"
 DEFAULT_OUTPUT_FILE = "tailored_resume.docx"
 
 HEADER_NAME = "SHELBY DEUTSCH"
-HEADER_CONTACT = "PHILADELPHIA, PA | (484) 988-0971 | DEUTSCHSHELBY@GMAIL.COM"
+HEADER_CONTACT = "PHILADELPHIA, PA | phone # | email"
 
 EDUCATION = [
     ("M.A. – Cybersecurity", "Roger Williams University — Bristol, RI", "May 2026"),
