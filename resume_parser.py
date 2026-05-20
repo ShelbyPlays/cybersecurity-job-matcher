@@ -3,7 +3,7 @@ import re
 import json
 
 
-PDF_PATH = r"C:\Users\deuts\Downloads\Deutsch S 2026 Resume (4).pdf"
+PDF_PATH = r"path"
 
 
 def extract_text_from_pdf(pdf_path):
